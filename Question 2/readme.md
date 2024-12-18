@@ -63,8 +63,7 @@ This approach uses a hash table (or bucketed hash map) to store key-value pairs 
 | **Hashing Based Validation**         | O(n log n)          | O(n)                 | Simple and effective for small to medium-sized datasets. | Overhead for sorting large datasets.             |
 | **Hashtable Entry Based Validation** | O(n)                | O(n) (worst case)    | Efficient for large datasets.                            | Memory usage may grow temporarily in some cases. |
 
-## Additional Methods for Data Validation
-
+### Additional Methods for Data Validation : 
 Besides the two approaches mentioned above, you can also use other validation techniques such as:
 
 - **Reconciliation**: Compute aggregated values (e.g., sums, counts, averages) on both the local and cloud datasets. Compare the results to verify data integrity.
