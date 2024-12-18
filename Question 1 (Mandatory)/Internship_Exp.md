@@ -26,7 +26,7 @@ My approach involved thoroughly understanding the project requirements, collabor
 
 ### d. What were interesting aspects where you copied code from Stack Overflow?
 
-I frequently used **Stack Overflow** for optimizing **SQL queries** and solving specific **Java-related** issues, such as multi-threading problems and handling database connections efficiently. For instance, I found useful answers on optimizing **Spring Boot's caching mechanisms**, which significantly improved the performance of our microservices.
+I frequently used **Stack Overflow** for optimizing **SQL queries** and solving specific **Java-related** issues, such as multi-threading problems and handling database connections efficiently. For instance, I found useful answers on optimizing **Spring Boot's caching mechanisms**.
 
 ---
 
