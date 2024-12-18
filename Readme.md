@@ -46,4 +46,4 @@ This repository contains my solutions for the Blox assignment. Below is a summar
 
 ## How to Run the Code
 
-For Question 2 and Question 3, please refer to the instructions provided in the readme.md files within their respective folders to run the solutions.
+For **Question 2** and **Question 3**, please refer to the instructions provided in the readme.md files within their respective folders to run the solutions.
