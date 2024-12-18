@@ -9,6 +9,7 @@ As a **Software Development Engineer Intern** at **Upstox**, I worked on backend
 ### a. What did the system do?
 
 The system I worked on was designed to handle and optimize customer support operations within Upstox's platform. It used **microservices** to manage various backend operations, including responding to user queries and requests. My contributions ensured that the system was scalable, optimized, and reliable for handling high loads of user traffic.
+
 ---
 
 ### b. What other systems have you seen in the wild like that?
