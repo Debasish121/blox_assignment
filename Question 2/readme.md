@@ -5,7 +5,7 @@ to AWS or GCP. How can one confirm that the copied data is the same as the origi
 What would be the check points ?
 Imagine that data from table is of the form : List<Map<String,String>>
 
-# Data Migration Validation - Hashing Approaches
+## Solution
 
 This project implements two approaches for validating the consistency of data after migrating a database from a local environment to a cloud environment (e.g., AWS/GCP). These approaches help ensure that the data in the cloud database is identical to the original data in the local database.
 
