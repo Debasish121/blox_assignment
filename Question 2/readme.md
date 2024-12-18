@@ -80,9 +80,10 @@ Besides the two approaches mentioned above, you can also use other validation te
 ### Steps to Run:
 
 1. Clone the repository.
-2. Install dependencies (if any) using `npm install` (not needed for this implementation, as it's self-contained).
-3. Run the script using Node.js:
+2. Install dependencies (if any) using `npm install`.
+3. Go inside Question_2 folder and run the script using Node.js:
 
 ```bash
 node solution1.js
+node solution2.js
 ```
