@@ -89,7 +89,7 @@ const jwt = require("jsonwebtoken");
 
 // Generate JWT token
 const generateToken = (user) => {
-  return jwt.sign({ id: user._id }, "your_secret_key", { expiresIn: "1h" });
+  return jwt.sign({ id: user._id }, "secret_key", { expiresIn: "1h" });
 };
 
 // Verify JWT token middleware
@@ -109,7 +109,7 @@ const authenticate = (req, res, next) => {
 
 ```javascript
 // Example: Stripe Payment Integration
-const stripe = require("stripe")("your_stripe_secret_key");
+const stripe = require("stripe")("stripe_secret_key");
 
 const createPaymentIntent = async (amount) => {
   const paymentIntent = await stripe.paymentIntents.create({
